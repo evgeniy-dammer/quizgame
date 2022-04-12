@@ -1,4 +1,4 @@
-# "Quiz Game" exercise from Gophercises (by John Calhoun)
+# "Quiz Game" exercise from Gophercises (by Jon Calhoun)
 
 Website: https://gophercises.com
 
